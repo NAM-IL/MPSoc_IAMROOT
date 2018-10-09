@@ -7,6 +7,24 @@
 > * [Keynote: RISC V – Enabling A New Era Of Open Data-Centric Computing Architectures](https://www.youtube.com/watch?v=ATZls4lbwmM)
 > * [BOOM v2: An Open Source Out Of Order RISC V Core](https://www.youtube.com/watch?v=toc2GxL4RyA)
 
+####  [Papers]
+> * [Papers with regards to RISC-V in Google Scholar  search results ](https://scholar.google.co.kr/scholar?hl=ko&newwindow=1&as_sdt=0%2C5&q=risc-v&btnG=)
+> * [Program Synthesis Through Reinforcement Learning Guided Tree Search](https://arxiv.org/abs/1806.02932)
+> * [The microarchitecture of a multi-threaded RISC-V compliant processing core family for IoT end-nodes](https://arxiv.org/abs/1712.04902)
+> * [A near-threshold RISC-V core with DSP extensions for scalable IoT Endpoint Devices](https://arxiv.org/abs/1608.08376)
+
+####  [[ProceedingsArchive](https://riscv.org/category/workshops/proceedings/) | [riscv.org](https://riscv.org/)]
+> * [RISC-V Workshop in Chennai Proceedings, JULY 19, 2018](https://riscv.org/2018/07/risc-v-workshop-in-chennai-proceedings/)
+> * [RISC-V Day in Shanghai Proceedings, JULY 5, 2018](https://riscv.org/2018/07/shanghai-proceedings/)
+> * [RISC-V Workshop in Barcelona Proceedings, MAY 8, 2018](https://riscv.org/2018/05/risc-v-workshop-in-barcelona-proceedings/)
+> * [7th RISC-V Workshop Proceedings, DECEMBER 9, 2017](https://riscv.org/2017/12/7th-risc-v-workshop-proceedings/)
+> * [6th RISC-V Workshop Proceedings, MAY 28, 2017](https://riscv.org/2017/05/6th-risc-v-workshop-proceedings/)
+> * [5th RISC-V Workshop Proceedings, DECEMBER 11, 2016](https://riscv.org/2016/12/5th-risc-v-workshop-proceedings/)
+> * [4th RISC-V Workshop Proceedings, JULY 25, 2016](https://riscv.org/2016/07/4th-risc-v-workshop-proceedings/)
+> * [3rd RISC-V Workshop Proceedings, JANUARY 23, 2016](https://riscv.org/2016/01/3rd-risc-v-workshop/)
+> * [2nd RISC-V Workshop Proceedings, JULY 29, 2015](https://riscv.org/2015/07/2nd-risc-v-workshop/)
+> * [1st RISC-V Workshop Proceedings, JANUARY 14, 2015](https://riscv.org/2015/01/1st-risc-v-workshop-bootcamp/)
+
 ####  [FPGA]
 > * [ECE 4999: INDEPENDENT STUDY ON PortING Amber CPU to DE1](https://people.ece.cornell.edu/land/courses/eceprojectsland/STUDENTPROJ/2016to2017/md874/Report_draft.pdf)
 
