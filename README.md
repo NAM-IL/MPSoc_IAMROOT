@@ -1,8 +1,6 @@
 # MPSoc_IAMROOT Online Research Group !
 
-### 5. 참고 사항
-*  세미나소식 
-> * [SiFive 기술 심포지움 서울](https://www.facebook.com/brandon.on.tech/photos/a.1061806673901514/1926421777439995/?type=3&eid=ARBTw5WcvDC-_ouk8iS6p-Wvcq7rjfno26X9yZR16maUS7XvmCDtaJsVw2eXUoeZk4DcEMkO8jDMd2kB&__xts__%5B0%5D=68.ARASRW3Mv44Mvn1HlNRdVXcWfOzAVzOVfml9epm5LGsM2qBweIYA_zQCUicJMTGmsn8Zro3atTSGEKaBsHomLJS8hWZdQS6-Qo1YxNZiwZRr-TZLGqpnmdPPnPiJS2S0G7MvVKAKLTs3TuJYRO2PPaAPIy_sRVZSyxWKXv7up7KVrYclcDxgKQ&__tn__=EEHH-R) <br/>
+### [ 참고 사항 ]
 
 *  FPGA보드 구입처
 > * [이니프로-Terasic Technologies](http://www.inipro.net/goods/goods_list.php?cateCd=006001)
