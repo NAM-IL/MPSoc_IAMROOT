@@ -1,11 +1,11 @@
 ## MPSoc_IAMROOT Online Research Group !
 
 ####  [RISCV]
-      - [VexRiscv](https://github.com/SpinalHDL/VexRiscv)
-      - [riscv-soc-cores](https://github.com/open-design/riscv-soc-cores)
-      - [RISC-V Cores and SoC Overview](https://riscv.org/risc-v-cores/)
-      - [Keynote: RISC V – Enabling A New Era Of Open Data-Centric Computing Architectures](https://www.youtube.com/watch?v=ATZls4lbwmM)
-      - [BOOM v2: An Open Source Out Of Order RISC V Core](https://www.youtube.com/watch?v=toc2GxL4RyA)
+> * [VexRiscv](https://github.com/SpinalHDL/VexRiscv)
+> * [riscv-soc-cores](https://github.com/open-design/riscv-soc-cores)
+> * [RISC-V Cores and SoC Overview](https://riscv.org/risc-v-cores/)
+> * [Keynote: RISC V – Enabling A New Era Of Open Data-Centric Computing Architectures](https://www.youtube.com/watch?v=ATZls4lbwmM)
+> * [BOOM v2: An Open Source Out Of Order RISC V Core](https://www.youtube.com/watch?v=toc2GxL4RyA)
 
 
 ####  [Papers]
