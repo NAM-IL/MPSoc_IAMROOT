@@ -13,6 +13,8 @@
 > * [Program Synthesis Through Reinforcement Learning Guided Tree Search](https://arxiv.org/abs/1806.02932)
 > * [The microarchitecture of a multi-threaded RISC-V compliant processing core family for IoT end-nodes](https://arxiv.org/abs/1712.04902)
 > * [A near-threshold RISC-V core with DSP extensions for scalable IoT Endpoint Devices](https://arxiv.org/abs/1608.08376)
+> * [Conquering the Complexity Mountain: Full-stack
+Computer Architecture teaching with FPGAs](https://www.cl.cam.ac.uk/~atm26/pubs/markettos-ewme-2016.pdf)
 
 ####  [[ProceedingsArchive](https://riscv.org/category/workshops/proceedings/) | [riscv.org](https://riscv.org/)]
 > * [RISC-V Workshop in Chennai Proceedings, JULY 19, 2018](https://riscv.org/2018/07/risc-v-workshop-in-chennai-proceedings/)
