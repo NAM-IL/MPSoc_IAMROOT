@@ -41,12 +41,11 @@ Computer Architecture teaching with FPGAs](https://www.cl.cam.ac.uk/~atm26/pubs/
 > * [Spartan-7 FPGA가 장착된 Arty S7-50 기판](https://www.digikey.kr/ko/product-highlight/d/digilent/arty-s7-50-board-with-spartan-7-fpga)
 > * [프로그램 가능 논리 IC 개발 툴 Arty S7-50](https://www.eleparts.co.kr/goods/view?no=5982349)
 > * [Arty](https://reference.digilentinc.com/reference/programmable-logic/arty/start)
->
 
-***
+---
 ### **<div align="right" size='11'>[🔝](https://github.com/NAM-IL/MPSoc_IAMROOT)</div>**
 
-## 라이선스
+### 라이선스
 이 프로젝트는 아래 라이선스를 따릅니다.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
