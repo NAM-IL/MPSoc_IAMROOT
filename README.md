@@ -42,7 +42,8 @@
 
 
 ***
-# [🔝](https://github.com/NAM-IL/MPSoc_IAMROOT)
+
+# **<div align="right" size='11'>[🔝](https://github.com/NAM-IL/MPSoc_IAMROOT)</div>**
 
 ## 라이선스
 이 프로젝트는 아래 라이선스를 따릅니다.
