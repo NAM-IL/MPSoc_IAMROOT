@@ -1,5 +1,5 @@
 <h2 id="top">
-## MPSoc_IAMROOT Online Research Group !
+MPSoc_IAMROOT Online Research Group !
 </h2>
 
 
