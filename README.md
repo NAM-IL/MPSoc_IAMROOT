@@ -7,6 +7,12 @@
 > * [Keynote: RISC V – Enabling A New Era Of Open Data-Centric Computing Architectures](https://www.youtube.com/watch?v=ATZls4lbwmM)
 > * [BOOM v2: An Open Source Out Of Order RISC V Core](https://www.youtube.com/watch?v=toc2GxL4RyA)
 
+### ❏ Chisel & RocketChip
+* [rocket-chip/src/main/](https://github.com/freechipsproject/rocket-chip/tree/master/src/main)
+* [RISC-V "Rocket Chip" SoC Generator in Chisel - 1st RISC-V Workshop](https://www.youtube.com/watch?v=Ir3h3qWcNlg)
+* [[2016] QEMU Support for the RISC-V Instruction Set Architecture by Sagar Karandikar](https://www.youtube.com/watch?v=b5g8u3GA-lo)
+
+ 
 
 ### ❏ Papers
 > * [Papers with regards to RISC-V in Google Scholar  search results ](https://scholar.google.co.kr/scholar?hl=ko&newwindow=1&as_sdt=0%2C5&q=risc-v&btnG=)
