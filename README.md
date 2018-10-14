@@ -55,7 +55,7 @@ Computer Architecture teaching with FPGAs](https://www.cl.cam.ac.uk/~atm26/pubs/
 > * [Arty](https://reference.digilentinc.com/reference/programmable-logic/arty/start)
 
 ---
-### **<div align="right" size='11'>[🔝](https://github.com/NAM-IL/MPSoc_IAMROOT)</div>**
+### **<div align="right" size='11'>[🔝](#top)</div>**
 
 ### 라이선스
 이 프로젝트는 아래 라이선스를 따릅니다.
