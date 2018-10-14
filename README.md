@@ -8,9 +8,9 @@
 > * [BOOM v2: An Open Source Out Of Order RISC V Core](https://www.youtube.com/watch?v=toc2GxL4RyA)
 
 ### ❏ Chisel & RocketChip
-* [rocket-chip/src/main/](https://github.com/freechipsproject/rocket-chip/tree/master/src/main)
-* [RISC-V "Rocket Chip" SoC Generator in Chisel - 1st RISC-V Workshop](https://www.youtube.com/watch?v=Ir3h3qWcNlg)
-* [[2016] QEMU Support for the RISC-V Instruction Set Architecture by Sagar Karandikar](https://www.youtube.com/watch?v=b5g8u3GA-lo)
+> * [rocket-chip/src/main/](https://github.com/freechipsproject/rocket-chip/tree/master/src/main)
+> * [RISC-V "Rocket Chip" SoC Generator in Chisel - 1st RISC-V Workshop](https://www.youtube.com/watch?v=Ir3h3qWcNlg)
+> * [[2016] QEMU Support for the RISC-V Instruction Set Architecture by Sagar Karandikar](https://www.youtube.com/watch?v=b5g8u3GA-lo)
 
  
 
