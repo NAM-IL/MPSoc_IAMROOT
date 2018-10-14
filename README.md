@@ -34,7 +34,7 @@ Computer Architecture teaching with FPGAs](https://www.cl.cam.ac.uk/~atm26/pubs/
 > * [2nd RISC-V Workshop Proceedings, JULY 29, 2015](https://riscv.org/2015/07/2nd-risc-v-workshop/)
 > * [1st RISC-V Workshop Proceedings, JANUARY 14, 2015](https://riscv.org/2015/01/1st-risc-v-workshop-bootcamp/)
 
-### **<div align="right" size='11'>[🔝](#mpsoc_iamroot-online-research-group-)</div>**
+### **<div align="right" size='11'>[🔝](mpsoc_iamroot-online-research-group-)</div>**
 
 
 ### ❏ FPGA
