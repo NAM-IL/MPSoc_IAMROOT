@@ -14,8 +14,13 @@ MPSoc_IAMROOT Online Research Group !
 > * [rocket-chip/src/main/](https://github.com/freechipsproject/rocket-chip/tree/master/src/main)
 > * [RISC-V "Rocket Chip" SoC Generator in Chisel - 1st RISC-V Workshop](https://www.youtube.com/watch?v=Ir3h3qWcNlg)
 > * [[2016] QEMU Support for the RISC-V Instruction Set Architecture by Sagar Karandikar](https://www.youtube.com/watch?v=b5g8u3GA-lo)
-
+> * [Rocket Chip Generator](https://github.com/freechipsproject/rocket-chip)
+> * [Simple RISC-V 3-stage Pipeline in Chisel⭐](https://github.com/ucb-bar/riscv-mini)
 ### **<div align="right" size='11'>[🔝](#top)</div>**
+
+### ❏ IDE
+> * [IntelliJ](https://www.jetbrains.com/idea/download/#section=linux)
+> * [Install IntelliJ IDEA IDE On Ubuntu 16.04 / 17.10 / 18.04](https://websiteforstudents.com/install-intellij-idea-ide-on-ubuntu-16-04-17-10-18-04/)
 
 ### ❏ Papers
 > * [Papers with regards to RISC-V in Google Scholar  search results ](https://scholar.google.co.kr/scholar?hl=ko&newwindow=1&as_sdt=0%2C5&q=risc-v&btnG=)
