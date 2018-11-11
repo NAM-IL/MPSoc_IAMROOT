@@ -16,6 +16,12 @@ MPSoc_IAMROOT Online Research Group !
 > * [[2016] QEMU Support for the RISC-V Instruction Set Architecture by Sagar Karandikar](https://www.youtube.com/watch?v=b5g8u3GA-lo)
 > * [Rocket Chip Generator](https://github.com/freechipsproject/rocket-chip)
 > * [Simple RISC-V 3-stage Pipeline in Chisel⭐](https://github.com/ucb-bar/riscv-mini)
+> * [VLSI Systems Design_2011](http://www-inst.eecs.berkeley.edu/~cs250/fa11/)
+> * [VLSI Systems Design_2017](http://www-inst.eecs.berkeley.edu/~cs250/sp17/)
+> * [Rocket Chip on FPGAs](https://github.com/ucb-bar/fpga-zynq/blob/master/README.md)
+> * [SiFive's Freedom platforms](https://github.com/sifive/freedom)
+> * [Artix-7 35T Arty FPGA Evaluation Kit](https://www.xilinx.com/products/boards-and-kits/arty.html)
+
 ### **<div align="right" size='11'>[🔝](#top)</div>**
 
 ### ❏ IDE
