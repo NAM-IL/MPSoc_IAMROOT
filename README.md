@@ -21,10 +21,15 @@ MPSoc_IAMROOT Online Research Group !
 > * [Rocket Chip on FPGAs](https://github.com/ucb-bar/fpga-zynq/blob/master/README.md)
 > * [SiFive's Freedom platforms](https://github.com/sifive/freedom)
 > * [Artix-7 35T Arty FPGA Evaluation Kit](https://www.xilinx.com/products/boards-and-kits/arty.html)
+> * [riscv-sodor](https://github.com/librecores/riscv-sodor)
+> * [learning-journey](https://github.com/Intensivate/learning-journey)
 
 ### **<div align="right" size='11'>[🔝](#top)</div>**
 
 ### ❏ IDE
+> * [서브라임 텍스트(Sublime Text)-플러그인 설치](http://webdir.tistory.com/396)
+> * [서브라임 텍스트(Sublime Text)-유용한 패키지들 목록](https://opentutorials.org/module/2251/12791)
+> * [서브라임 텍스트(Sublime Text)-PackageControl](https://packagecontrol.io/)
 > * [IntelliJ](https://www.jetbrains.com/idea/download/#section=linux)
 > * [Install IntelliJ IDEA IDE On Ubuntu 16.04 / 17.10 / 18.04](https://websiteforstudents.com/install-intellij-idea-ide-on-ubuntu-16-04-17-10-18-04/)
 
