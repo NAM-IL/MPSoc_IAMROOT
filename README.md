@@ -44,6 +44,10 @@ MPSoc_IAMROOT Online Research Group !
 > * [Conquering the Complexity Mountain: Full-stack
 Computer Architecture teaching with FPGAs](https://www.cl.cam.ac.uk/~atm26/pubs/markettos-ewme-2016.pdf)
 
+### ❏ [Computer Architecture Research with RISC-V](https://carrv.github.io/) 
+> * [CARRV 2018](https://carrv.github.io/)
+> * [CARRV 2017](https://carrv.github.io/2017/)
+
 ### ❏ [ProceedingsArchive](https://riscv.org/category/workshops/proceedings/) | [riscv.org](https://riscv.org/)
 > * [RISC-V Workshop in Chennai Proceedings, JULY 19, 2018](https://riscv.org/2018/07/risc-v-workshop-in-chennai-proceedings/)
 > * [RISC-V Day in Shanghai Proceedings, JULY 5, 2018](https://riscv.org/2018/07/shanghai-proceedings/)
