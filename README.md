@@ -22,10 +22,8 @@ MPSoc_IAMROOT Online Research Group !
 > * [SiFive's Freedom platforms](https://github.com/sifive/freedom)
 > * [Artix-7 35T Arty FPGA Evaluation Kit](https://www.xilinx.com/products/boards-and-kits/arty.html)
 > * [riscv-sodor](https://github.com/librecores/riscv-sodor)
-> * [learning-journey](https://github.com/Intensivate/learning-journey)
-
+> * [learning-journey](https://github.com/Intensivate/learning-journey) 
 ### **<div align="right" size='11'>[🔝](#top)</div>**
-
 ### ❏ IDE
 > * [서브라임 텍스트(Sublime Text)-플러그인 설치](http://webdir.tistory.com/396)
 > * [서브라임 텍스트(Sublime Text)-유용한 패키지들 목록](https://opentutorials.org/module/2251/12791)
@@ -52,10 +50,7 @@ Computer Architecture teaching with FPGAs](https://www.cl.cam.ac.uk/~atm26/pubs/
 > * [3rd RISC-V Workshop Proceedings, JANUARY 23, 2016](https://riscv.org/2016/01/3rd-risc-v-workshop/)
 > * [2nd RISC-V Workshop Proceedings, JULY 29, 2015](https://riscv.org/2015/07/2nd-risc-v-workshop/)
 > * [1st RISC-V Workshop Proceedings, JANUARY 14, 2015](https://riscv.org/2015/01/1st-risc-v-workshop-bootcamp/)
-
 ### **<div align="right" size='11'>[🔝](#top)</div>**
-
-
 ### ❏ FPGA
 > * [ECE 4999: INDEPENDENT STUDY ON PortING Amber CPU to DE1](https://people.ece.cornell.edu/land/courses/eceprojectsland/STUDENTPROJ/2016to2017/md874/Report_draft.pdf)
 
